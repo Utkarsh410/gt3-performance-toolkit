@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/sample_session.csv
+output/processed.csv
+output/motec_maths.csv
+.env
+*.egg-info/

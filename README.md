@@ -1,6 +1,6 @@
 # GT3 Performance Analysis Toolkit
 
-**Portfolio project aligned to Toyota Racing GmbH — Performance Engineer (GT3)**  
+**GT3 Race Engineering Portfolio Project**  
 IIT Kharagpur · MTS Monza Race Engineering Certificate · Utkarsh Chaudhari
 
 ---

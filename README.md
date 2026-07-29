@@ -198,8 +198,7 @@ MATLAB files require base MATLAB only — no Simulink or additional toolboxes.
 
 ## Context
 
-This project was built as part of an active application to the Toyota Racing GmbH Performance Engineer (GT3) role in Cologne. The analysis pipeline covers all core competencies listed in the job description: data acquisition, tyre temperature analysis, vehicle dynamics modelling, setup development, and session reporting.
-
+This toolkit was built to demonstrate core GT3 race engineering competencies: telemetry data acquisition, tyre temperature analysis, vehicle dynamics modelling, setup development, and session reporting — the full trackside analysis loop a race engineer works through over a race weekend.
 Trackside experience: MTS Monza (Formula 4 Abarth, Lamborghini Huracán GT3) and Prudent Motorsports. Tools: Motec i2, Race Studio, MATLAB, Python telemetry pipelines.
 
 Contact: utkarsh410@gmail.com
